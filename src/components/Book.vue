@@ -66,6 +66,7 @@ const studyProgress = $computed(() => {
   right: -22px;
   padding: 1px 20px;
   background: whitesmoke;
+  color: gray;
   font-size: 11px;
   transform: rotate(45deg);
 }
